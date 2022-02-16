@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CharArrayfinder\CharArrayfinder\bin\Debug\netcoreapp3.1\CharArrayfinder.exe
+C:\Users\User\source\repos\CharArrayfinder\CharArrayfinder\bin\Debug\netcoreapp3.1\CharArrayfinder.deps.json
+C:\Users\User\source\repos\CharArrayfinder\CharArrayfinder\bin\Debug\netcoreapp3.1\CharArrayfinder.runtimeconfig.json
+C:\Users\User\source\repos\CharArrayfinder\CharArrayfinder\bin\Debug\netcoreapp3.1\CharArrayfinder.runtimeconfig.dev.json
+C:\Users\User\source\repos\CharArrayfinder\CharArrayfinder\bin\Debug\netcoreapp3.1\CharArrayfinder.dll
+C:\Users\User\source\repos\CharArrayfinder\CharArrayfinder\bin\Debug\netcoreapp3.1\CharArrayfinder.pdb
+C:\Users\User\source\repos\CharArrayfinder\CharArrayfinder\obj\Debug\netcoreapp3.1\CharArrayfinder.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CharArrayfinder\CharArrayfinder\obj\Debug\netcoreapp3.1\CharArrayfinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CharArrayfinder\CharArrayfinder\obj\Debug\netcoreapp3.1\CharArrayfinder.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CharArrayfinder\CharArrayfinder\obj\Debug\netcoreapp3.1\CharArrayfinder.AssemblyInfo.cs
+C:\Users\User\source\repos\CharArrayfinder\CharArrayfinder\obj\Debug\netcoreapp3.1\CharArrayfinder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CharArrayfinder\CharArrayfinder\obj\Debug\netcoreapp3.1\CharArrayfinder.dll
+C:\Users\User\source\repos\CharArrayfinder\CharArrayfinder\obj\Debug\netcoreapp3.1\CharArrayfinder.pdb
+C:\Users\User\source\repos\CharArrayfinder\CharArrayfinder\obj\Debug\netcoreapp3.1\CharArrayfinder.genruntimeconfig.cache
